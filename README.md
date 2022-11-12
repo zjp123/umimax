@@ -5,4 +5,5 @@
 ```js
 需要用到node 16版本及以上 启动 yarn dev
 
+去掉antd-pro 看看项目能不能跑起来  "@ant-design/pro-components": "^2.0.1",
 ```
