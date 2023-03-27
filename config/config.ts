@@ -6,9 +6,9 @@ export default defineConfig({
   model: {},
   initialState: {},
   request: {},
-  layout: {
-    title: '@umijs/max',
-  },
+  // layout: {
+  //   // title: '@umijs/max',
+  // },
   routes: [
     {
       path: '/',
