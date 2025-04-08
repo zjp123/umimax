@@ -29,6 +29,11 @@ export default defineConfig({
       path: '/table',
       component: './Table',
     },
+    {
+      name: '表单示例',
+      path: '/form',
+      component: './Form',
+    },
   ],
   npmClient: 'yarn',
 });
